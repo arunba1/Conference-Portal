@@ -1,0 +1,48 @@
+.pdftry{
+    display: block;
+    padding: 40px;
+    justify-content: center;
+    margin-top: 100px;
+}
+.stylef{
+    padding: 20px;
+    border: 1px solid black;
+    width: 25%;
+    text-align: center;
+}
+
+.form-control{
+    border-color: black !important;
+}
+
+.button {
+    background-color: #BC00A3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    
+  }
+
+  .gfg{
+    color: #063970;
+    font-size: 20px;
+
+}
+
+.innerop{
+    margin-right: 0px;
+}
+
+.opdiv{
+    padding: 10px;
+    border: 1px solid black;
+    width: 25%;
+    height: 10%;
+    flex-direction: column;
+    text-align: center;
+}

@@ -1,0 +1,50 @@
+.loginbox{
+    display: block;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+.gbat{
+    background-color: #063970;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content ;
+    align-items: center;
+    justify-content: space-around;
+    height: 5vh;
+    margin: 2vh;
+}
+.g1{
+    background-color: #063970;
+    border: hidden;
+    margin-right: 1vw;
+    color: white;
+}
+.g1::placeholder {
+    color: lightgrey;
+    opacity: 1; /* Firefox */
+  }
+
+.g2{
+    margin-left: 1vw;
+    margin-right: 1vw;
+    color: white;
+}
+.logincontents{
+    display:block;
+    
+}
+
+.button {
+    background-color: #BC00A3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    
+  }

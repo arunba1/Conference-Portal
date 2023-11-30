@@ -1,0 +1,19 @@
+.box{
+    display: block;
+    padding: 1px;
+    margin-top: 2px;
+}
+
+.About{
+    background-color:#063970;
+    display: block;
+    color: white;
+    border-radius: 90px;
+}
+
+.font-link{
+    font-family: 'Hanalei Fill','cursive';
+    font-style: oblique;
+    font-size: large;
+    font-weight: bolder;
+}
